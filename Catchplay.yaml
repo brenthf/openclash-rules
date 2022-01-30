@@ -1,0 +1,14 @@
+payload:  
+  # > catchplay
+  # - User-Agent,catchplay*
+  - DOMAIN-KEYWORD,catchplay
+  - DOMAIN-SUFFIX,catchplay.com
+  - DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
+  - DOMAIN-SUFFIX,ols-ww000-cp.akamaized.net
+  - DOMAIN-SUFFIX,dkfhw9rzsr80z.cloudfront.net
+  - DOMAIN-SUFFIX,d2eib6r9tuf5y8.cloudfront.net
+  - DOMAIN-SUFFIX,api2.branch.io
+  - DOMAIN-SUFFIX,cdn.branch.io
+  - DOMAIN-SUFFIX,asiaplay-origin.s3.amazonaws.com
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,scontent-tpe1-1.xx.fbcdn.net
