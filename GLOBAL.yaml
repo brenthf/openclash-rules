@@ -2,6 +2,6 @@ payload:
   # > brentGLOBAL
   - DOMAIN-SUFFIX,icanhazip.com
   - DOMAIN-SUFFIX,socloud.me
-#  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,javbus.com
 
   
