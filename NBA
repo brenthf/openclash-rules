@@ -33,4 +33,4 @@ payload:
   - DOMAIN-SUFFIX,assets.adobedtm.com
   - DOMAIN-SUFFIX,api2.branch.io
   - DOMAIN-SUFFIX,neulion-a.akamaihd.net
-#  - DOMAIN-SUFFIX,c.amazon-adsystem.com
+  - DOMAIN-SUFFIX,c.amazon-adsystem.com
