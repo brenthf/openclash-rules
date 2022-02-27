@@ -1,0 +1,26 @@
+payload:  
+  # > NBA
+  # - User-Agent,NBA
+#  - DOMAIN-KEYWORD,nba
+  - DOMAIN-SUFFIX,watch.nba.com
+  - DOMAIN-SUFFIX,nlnbamdnyc-a.akamaihd.net
+  - DOMAIN-SUFFIX,identity.nba.com
+  - DOMAIN-SUFFIX,content-api-prod.nba.com
+  - DOMAIN-SUFFIX,nbaprop.sc.omtrdc.net
+  - DOMAIN-SUFFIX,nlnbaqos.neulion.com
+  - DOMAIN-SUFFIX,stats.nba.com
+  - DOMAIN-SUFFIX,nbaapi.neulion.com
+  - DOMAIN-SUFFIX,cdn.nba.com
+  - DOMAIN-SUFFIX,watchnba.cdnfastly.endeavorstreaming.net
+  - DOMAIN-SUFFIX,davinci-qa.nba.com
+  - DOMAIN-SUFFIX,nba.studio.easelive.tv
+  - DOMAIN-SUFFIX,lion-nba-msl.akamaized.net
+  - DOMAIN-SUFFIX,nba-cdn.cloud.easelive.tv
+  - DOMAIN-SUFFIX,nbapcm.neulion.com
+  - DOMAIN-SUFFIX,nba.cloud.easelive.tv
+#  - DOMAIN-SUFFIX,
+#  - DOMAIN-SUFFIX,
+#  - DOMAIN-SUFFIX,
+#  - DOMAIN-SUFFIX,
+#  - DOMAIN-SUFFIX,
+#  - DOMAIN-SUFFIX,
