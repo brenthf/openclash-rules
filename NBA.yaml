@@ -18,9 +18,18 @@ payload:
   - DOMAIN-SUFFIX,nba-cdn.cloud.easelive.tv
   - DOMAIN-SUFFIX,nbapcm.neulion.com
   - DOMAIN-SUFFIX,nba.cloud.easelive.tv
-#  - DOMAIN-SUFFIX,
-#  - DOMAIN-SUFFIX,
-#  - DOMAIN-SUFFIX,
-#  - DOMAIN-SUFFIX,
-#  - DOMAIN-SUFFIX,
-#  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,tracker.easelive.tv
+  - DOMAIN-SUFFIX,shield-twoproxy.imggaming.com
+  - DOMAIN-SUFFIX,o101127.ingest.sentry.io
+  - DOMAIN-SUFFIX,psapi.neulion.com
+  - DOMAIN-SUFFIX,sb.scorecardresearch.com
+  - DOMAIN-SUFFIX,cdn.cookielaw.org
+  - DOMAIN-SUFFIX,mboxedge32.tt.omtrdc.net
+  - DOMAIN-SUFFIX,sdk.iad-03.braze.com
+  - DOMAIN-SUFFIX,mobile-data.onetrust.io
+  - DOMAIN-SUFFIX,api.amplitude.com
+  - DOMAIN-SUFFIX,dpm.demdex.net
+  - DOMAIN-SUFFIX,assets.adobedtm.com
+  - DOMAIN-SUFFIX,api2.branch.io
+  - DOMAIN-SUFFIX,neulion-a.akamaihd.net
+#  - DOMAIN-SUFFIX,c.amazon-adsystem.com
