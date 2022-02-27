@@ -1,7 +1,7 @@
 payload:  
   # > NBA
   # User-Agent,NBA*
-  # PROCESS-NAME,com.nbaimd.gametime.nba2011
+  - PROCESS-NAME,com.nbaimd.gametime.nba2011
   - DOMAIN-KEYWORD,nba
   - DOMAIN-SUFFIX,watch.nba.com
   - DOMAIN-SUFFIX,nlnbamdnyc-a.akamaihd.net
