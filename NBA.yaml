@@ -1,7 +1,7 @@
 payload:  
   # > NBA
   # - User-Agent,NBA
-#  - DOMAIN-KEYWORD,nba
+  - DOMAIN-KEYWORD,nba
   - DOMAIN-SUFFIX,watch.nba.com
   - DOMAIN-SUFFIX,nlnbamdnyc-a.akamaihd.net
   - DOMAIN-SUFFIX,identity.nba.com
