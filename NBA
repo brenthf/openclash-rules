@@ -39,3 +39,4 @@ payload:
   - DOMAIN-SUFFIX,api2.branch.io
   - DOMAIN-SUFFIX,neulion-a.akamaihd.net
   - DOMAIN-SUFFIX,c.amazon-adsystem.com
+  - IP-CIDR,23.58.95.145/32
