@@ -1,0 +1,5 @@
+payload:  
+  # > global
+  # - User-Agent,global
+  - DOMAIN-SUFFIX,*
+#  - IP-CIDR,0.0.0.0/0
