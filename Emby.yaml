@@ -1,0 +1,5 @@
+payload:  
+  # > emby
+  # - User-Agent,emby*
+  - DOMAIN-SUFFIX,emby.run
+  - DOMAIN-SUFFIX,misakaf.xyz
