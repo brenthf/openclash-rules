@@ -6,7 +6,7 @@ payload:
 #  - DOMAIN-SUFFIX,xteve.spikespiegel.net
   - DOMAIN-SUFFIX,lightiptv.cc
   - DOMAIN-SUFFIX,ottbill.cc
-  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,goodreads.com
   # Libby
   - DOMAIN-SUFFIX,overdrive.com
   - DOMAIN-SUFFIX,libbyapp.com
