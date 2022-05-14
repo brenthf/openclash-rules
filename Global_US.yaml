@@ -1,2 +1,7 @@
 payload:  
   # > brentGLOBAL_US
+  # Libby
+  - DOMAIN-SUFFIX,overdrive.com
+  - DOMAIN-SUFFIX,libbyapp.com
+  - DOMAIN-SUFFIX,od-cdn.com
+  - DOMAIN-SUFFIX,libbyshelf.com
