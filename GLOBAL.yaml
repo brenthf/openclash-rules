@@ -14,4 +14,6 @@ payload:
 #  - DOMAIN-SUFFIX,libbyshelf.com
   # Huge
   - DOMAIN-SUFFIX,hugesport.xyz
+  # Libby
+  - DOMAIN-SUFFIX,.com
   
