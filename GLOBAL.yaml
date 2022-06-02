@@ -16,4 +16,7 @@ payload:
   - DOMAIN-SUFFIX,hugesport.xyz
   # Libby
   - DOMAIN-SUFFIX,.com
+  # others
+  - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,extrabux.com
   
