@@ -5,7 +5,7 @@ payload:
   - DOMAIN-SUFFIX,nba.com
   - DOMAIN-SUFFIX,neulion-a.akamaihd.net
   - DOMAIN-SUFFIX,nlnbamdnyc-a.akamaihd.net
-  - DOMAIN-SUFFIX,sdk.iad-03.braze.com
+  #- DOMAIN-SUFFIX,sdk.iad-03.braze.com
   - DOMAIN-SUFFIX,nbaprop.sc.omtrdc.net
   - DOMAIN-SUFFIX,nlnbaqos.neulion.com
   - DOMAIN-SUFFIX,watchnba.cdnfastly.endeavorstreaming.net
