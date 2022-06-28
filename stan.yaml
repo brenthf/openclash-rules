@@ -1,0 +1,7 @@
+payload:  
+  # > STAN
+  # - User-Agent,STAN
+  - DOMAIN-KEYWORD,stan
+  - DOMAIN-SUFFIX,stan.com.au
+  - DOMAIN-SUFFIX,170-stan.akamaized.net
+  - DOMAIN-SUFFIX,streamcoimg-a.akamaized.net
