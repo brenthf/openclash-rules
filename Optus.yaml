@@ -1,0 +1,6 @@
+payload:  
+  # > OPTUS
+  # - User-Agent,OPTUS
+  - DOMAIN-KEYWORD,optus
+  - DOMAIN-SUFFIX,optus.com.au
+  - DOMAIN-SUFFIX,optusnet.com.au
