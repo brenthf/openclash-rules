@@ -1,0 +1,6 @@
+payload:  
+  # > SETANTA
+  # - User-Agent,SETANTA
+  - DOMAIN-KEYWORD,setanta
+  - DOMAIN-SUFFIX,dice-live-eu.akamaized.net
+  - DOMAIN-SUFFIX,dge-prod.dicelaboratory.com
