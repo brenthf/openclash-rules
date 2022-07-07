@@ -4,3 +4,5 @@ payload:
   - DOMAIN-KEYWORD,setanta
   - DOMAIN-SUFFIX,dice-live-eu.akamaized.net
   - DOMAIN-SUFFIX,dge-prod.dicelaboratory.com
+  - DOMAIN-SUFFIX,dve-streams.akamaized.net
+  - DOMAIN-SUFFIX,dce-frontoffice.imggaming.com
