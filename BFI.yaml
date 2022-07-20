@@ -1,0 +1,10 @@
+payload:  
+  # > BFI
+  # - User-Agent,BFI
+  - DOMAIN-KEYWORD,vimeo
+  - DOMAIN-KEYWORD,vhxqa
+  - DOMAIN-SUFFIX,vhx.tv
+  - DOMAIN-SUFFIX,vhx.com
+  - DOMAIN-SUFFIX,vhx.imgix.net
+  - DOMAIN-SUFFIX,livestream.com
+  - DOMAIN-SUFFIX,bfiplayerclassics.com
