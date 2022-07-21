@@ -1,0 +1,4 @@
+payload:  
+  # > SETANTA
+  # 此条为视频分流
+  - DOMAIN-SUFFIX,dice-live-eu.akamaized.net
