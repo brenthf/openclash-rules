@@ -7,7 +7,7 @@ payload:
   - DOMAIN-SUFFIX,dice-live-eu.akamaized.net
   - DOMAIN-SUFFIX,dge-prod.dicelaboratory.com
   - DOMAIN-SUFFIX,dve-streams.akamaized.net
-  - DOMAIN-SUFFIX,dce-frontoffice.imggaming.com
-  - DOMAIN-SUFFIX,dge-streaming.imggaming.com
-  - DOMAIN-SUFFIX,shield-drm.imggaming.com
+  #- DOMAIN-SUFFIX,dce-frontoffice.imggaming.com
+  #- DOMAIN-SUFFIX,dge-streaming.imggaming.com
+  #- DOMAIN-SUFFIX,shield-drm.imggaming.com
   #- DOMAIN-SUFFIX,imggaming.com
