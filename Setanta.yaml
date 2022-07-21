@@ -4,7 +4,7 @@ payload:
   - DOMAIN-KEYWORD,setanta
   - DOMAIN-SUFFIX,rvf7b1j85lihhgo5mr3fc8u2r.litix.io
   - DOMAIN-SUFFIX,1ok961aaca.execute-api.eu-west-1.amazonaws.com
-  - DOMAIN-SUFFIX,dice-live-eu.akamaized.net
+  #- DOMAIN-SUFFIX,dice-live-eu.akamaized.net
   - DOMAIN-SUFFIX,dge-prod.dicelaboratory.com
   - DOMAIN-SUFFIX,dve-streams.akamaized.net
   #- DOMAIN-SUFFIX,dce-frontoffice.imggaming.com
