@@ -10,4 +10,4 @@ payload:
   #- DOMAIN-SUFFIX,dce-frontoffice.imggaming.com
   #- DOMAIN-SUFFIX,dge-streaming.imggaming.com
   #- DOMAIN-SUFFIX,shield-drm.imggaming.com
-  #- DOMAIN-SUFFIX,imggaming.com
+   - DOMAIN-SUFFIX,imggaming.com
