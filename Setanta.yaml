@@ -3,10 +3,11 @@ payload:
   # - User-Agent,setantasports*
   - PROCESS-NAME,com.setanta.app
   - DOMAIN-KEYWORD,setanta
+  - DOMAIN-KEYWORD,
   - DOMAIN-SUFFIX,rvf7b1j85lihhgo5mr3fc8u2r.litix.io
   - DOMAIN-SUFFIX,diceplatform.com
-  - DOMAIN,imggaming.s3-eu-west-1.amazonaws.com
-  - DOMAIN,ux1kpaebv0.execute-api.eu-west-1.amazonaws.com
+  - DOMAIN-SUFFIX,imggaming.s3-eu-west-1.amazonaws.com
+  - DOMAIN-SUFFIX,ux1kpaebv0.execute-api.eu-west-1.amazonaws.com
   - DOMAIN-SUFFIX,1ok961aaca.execute-api.eu-west-1.amazonaws.com
   #- DOMAIN-SUFFIX,dice-live-eu.akamaized.net
   - DOMAIN-SUFFIX,dge-prod.dicelaboratory.com
