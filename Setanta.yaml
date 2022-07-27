@@ -3,7 +3,7 @@ payload:
   # - User-Agent,setantasports*
   - PROCESS-NAME,com.setanta.app
   - DOMAIN-KEYWORD,setanta
-  - DOMAIN-KEYWORD,
+  - DOMAIN-SUFFIX,pndsn.com
   - DOMAIN-SUFFIX,rvf7b1j85lihhgo5mr3fc8u2r.litix.io
   - DOMAIN-SUFFIX,diceplatform.com
   - DOMAIN-SUFFIX,imggaming.s3-eu-west-1.amazonaws.com
