@@ -20,5 +20,5 @@ payload:
   - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,nordcdn.com
   - DOMAIN-SUFFIX,extrabux.com
-  - DOMAIN-SUFFIX,cl.faans.club
+  - IP-CIDR,144.22.58.198
   
