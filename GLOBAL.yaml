@@ -15,7 +15,7 @@ payload:
   # Huge
   - DOMAIN-SUFFIX,hugesport.xyz
   # Libby
-  - DOMAIN-SUFFIX,.com
+  - DOMAIN-SUFFIX,libby.com
   # others
   - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,nordcdn.com
