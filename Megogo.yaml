@@ -1,0 +1,5 @@
+payload:  
+  # > MEGOGO
+  # - User-Agent,Megogo
+  - DOMAIN-KEYWORD,megogo
+  - DOMAIN-SUFFIX,megogo.net
