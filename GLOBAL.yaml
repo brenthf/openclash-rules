@@ -26,4 +26,4 @@ payload:
   - IP-CIDR,178.63.43.48/32
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,notifiarr.com
-  - DOMAIN-SUFFIX,emby.sportemby.com
+  - DOMAIN-SUFFIX,sportemby.com
