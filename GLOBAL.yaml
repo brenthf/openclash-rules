@@ -27,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,notifiarr.com
   - DOMAIN-SUFFIX,sportemby.com
+#  - DOMAIN-SUFFIX,spikespiegel.net
