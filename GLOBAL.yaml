@@ -3,7 +3,6 @@ payload:
   - DOMAIN-SUFFIX,icanhazip.com
   - DOMAIN-SUFFIX,socloud.me
   - DOMAIN-SUFFIX,javbus.com
-#  - DOMAIN-SUFFIX,xteve.spikespiegel.net
   - DOMAIN-SUFFIX,lightiptv.cc
   - DOMAIN-SUFFIX,ottbill.cc
   - DOMAIN-SUFFIX,goodreads.com
@@ -12,8 +11,6 @@ payload:
 #  - DOMAIN-SUFFIX,libbyapp.com
 #  - DOMAIN-SUFFIX,od-cdn.com
 #  - DOMAIN-SUFFIX,libbyshelf.com
-  # Huge
-  - DOMAIN-SUFFIX,hugesport.xyz
   # Libby
   - DOMAIN-SUFFIX,libby.com
   # others
@@ -29,3 +26,5 @@ payload:
   - DOMAIN-SUFFIX,notifiarr.com
   - DOMAIN-SUFFIX,sportemby.com
 #  - DOMAIN-SUFFIX,spikespiegel.net
+  # PT
+  - DOMAIN-SUFFIX,hdvideo.one
