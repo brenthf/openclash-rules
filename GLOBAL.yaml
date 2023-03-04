@@ -28,3 +28,4 @@ payload:
 #  - DOMAIN-SUFFIX,spikespiegel.net
   # PT
   - DOMAIN-SUFFIX,hdvideo.one
+  - DOMAIN-SUFFIX,mullvad.net
