@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,extrabux.com
   - DOMAIN-SUFFIX,cl.faans.club
   - IP-CIDR,144.22.58.198/32
-  - IP-CIDR,185.232.68.31/32
+#  - IP-CIDR,185.232.68.31/32
   - IP-CIDR,178.63.43.48/32
   - IP-CIDR,178.63.43.31/32
   - DOMAIN-SUFFIX,openai.com
