@@ -25,7 +25,8 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,notifiarr.com
   - DOMAIN-SUFFIX,sportemby.com
-#  - DOMAIN-SUFFIX,spikespiegel.net
+  - DOMAIN-SUFFIX,spikespiegel.net
+  - IP-CIDR,136.243.215.211/32
   - DOMAIN-SUFFIX,premierleague.com
   # PT
   - DOMAIN-SUFFIX,hdvideo.one
