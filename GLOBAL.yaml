@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,notifiarr.com
   - DOMAIN-SUFFIX,sportemby.com
 #  - DOMAIN-SUFFIX,spikespiegel.net
+  - DOMAIN-SUFFIX,premierleague.com
   # PT
   - DOMAIN-SUFFIX,hdvideo.one
   - DOMAIN-SUFFIX,mullvad.net
