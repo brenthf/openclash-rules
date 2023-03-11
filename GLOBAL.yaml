@@ -29,5 +29,5 @@ payload:
   - IP-CIDR,136.243.215.211/32
   - DOMAIN-SUFFIX,premierleague.com
   # PT
-  - DOMAIN-SUFFIX,hdvideo.one
+  #- DOMAIN-SUFFIX,hdvideo.one
   - DOMAIN-SUFFIX,mullvad.net
