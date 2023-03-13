@@ -29,6 +29,7 @@ payload:
   - IP-CIDR,136.243.215.211/32
   - DOMAIN-SUFFIX,premierleague.com
   - DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,captcha-delivery.com
   # PT
   #- DOMAIN-SUFFIX,hdvideo.one
   - DOMAIN-SUFFIX,mullvad.net
