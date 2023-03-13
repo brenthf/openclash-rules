@@ -1,6 +1,6 @@
 payload:  
   # > brentDirect
-  - DOMAIN-SUFFIX,spikespiegel.net
+  #- DOMAIN-SUFFIX,spikespiegel.net
   - DOMAIN-SUFFIX,faans.club
   - DOMAIN-SUFFIX,liuzhenyi.net
   #- DOMAIN-SUFFIX,sportemby.com
