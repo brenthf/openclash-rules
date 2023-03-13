@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,spikespiegel.net
   - IP-CIDR,136.243.215.211/32
   - DOMAIN-SUFFIX,premierleague.com
+  - DOMAIN-SUFFIX,tidal.com
   # PT
   #- DOMAIN-SUFFIX,hdvideo.one
   - DOMAIN-SUFFIX,mullvad.net
