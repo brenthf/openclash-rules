@@ -33,3 +33,4 @@ payload:
   # PT
   #- DOMAIN-SUFFIX,hdvideo.one
   - DOMAIN-SUFFIX,mullvad.net
+  - DOMAIN-SUFFIX,ipleak.net
