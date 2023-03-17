@@ -1,3 +1,35 @@
 payload:  
   # > brentGlobal
   - DOMAIN-SUFFIX,icanhazip.com
+  - DOMAIN-SUFFIX,socloud.me
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,lightiptv.cc
+  - DOMAIN-SUFFIX,ottbill.cc
+  - DOMAIN-SUFFIX,goodreads.com
+  # Libby
+  #  - DOMAIN-SUFFIX,overdrive.com
+  #  - DOMAIN-SUFFIX,libbyapp.com
+  #  - DOMAIN-SUFFIX,od-cdn.com
+  #  - DOMAIN-SUFFIX,libbyshelf.com
+  - DOMAIN-SUFFIX,libby.com
+  # others
+  - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,nordcdn.com
+  - DOMAIN-SUFFIX,extrabux.com
+  - DOMAIN-SUFFIX,cl.faans.club
+  - IP-CIDR,144.22.58.198/32
+  - IP-CIDR,185.232.68.31/32
+  - IP-CIDR,178.63.43.48/32
+  - IP-CIDR,178.63.43.31/32
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,notifiarr.com
+  - DOMAIN-SUFFIX,sportemby.com
+  - DOMAIN-SUFFIX,spikespiegel.net
+  - IP-CIDR,136.243.215.211/32
+  - DOMAIN-SUFFIX,premierleague.com
+  #- DOMAIN-SUFFIX,tidal.com
+  #- DOMAIN-SUFFIX,captcha-delivery.com
+  # PT
+  #- DOMAIN-SUFFIX,hdvideo.one
+  - DOMAIN-SUFFIX,mullvad.net
+  - DOMAIN-SUFFIX,ipleak.net
