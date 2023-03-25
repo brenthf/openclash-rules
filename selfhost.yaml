@@ -1,0 +1,5 @@
+payload:  
+  # > selfhost
+  - DOMAIN-SUFFIX,sportemby.com
+  - DOMAIN-SUFFIX,spikespiegel.net
+  - IP-CIDR,136.243.215.211/32
