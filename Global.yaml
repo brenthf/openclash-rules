@@ -22,9 +22,9 @@ payload:
   - IP-CIDR,95.217.74.86/32
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,notifiarr.com
-  - DOMAIN-SUFFIX,sportemby.com
-  - DOMAIN-SUFFIX,spikespiegel.net
-  - IP-CIDR,136.243.215.211/32
+  #- DOMAIN-SUFFIX,sportemby.com
+  #- DOMAIN-SUFFIX,spikespiegel.net
+  #- IP-CIDR,136.243.215.211/32
   - DOMAIN-SUFFIX,premierleague.com
   - DOMAIN-SUFFIX,mullvad.net
   - DOMAIN-SUFFIX,ipleak.net
