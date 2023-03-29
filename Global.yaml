@@ -28,4 +28,5 @@ payload:
   - DOMAIN-SUFFIX,mullvad.net
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,hostloc.com
-  # - DOMAIN-SUFFIX,overdrivechina.cn
+  - DOMAIN-SUFFIX,ozan.com
+
