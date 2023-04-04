@@ -18,11 +18,11 @@ payload:
   - DOMAIN-SUFFIX,extrabux.com
   - DOMAIN-SUFFIX,cl.faans.club
   - IP-CIDR,144.22.58.198/32
-  - IP-CIDR,185.232.68.31/32
-  - IP-CIDR,95.217.74.86/32
-  - IP-CIDR,95.217.74.82/32
+  #- IP-CIDR,185.232.68.31/32
+  #- IP-CIDR,95.217.74.86/32
+  #- IP-CIDR,95.217.74.82/32
   - DOMAIN-SUFFIX,notifiarr.com
-  - DOMAIN-SUFFIX,sportemby.com
+  #- DOMAIN-SUFFIX,sportemby.com
   #- DOMAIN-SUFFIX,spikespiegel.net
   #- IP-CIDR,136.243.215.211/32
   - DOMAIN-SUFFIX,premierleague.com
