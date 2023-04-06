@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,ozan.com
   - DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,heroku.com
