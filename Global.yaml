@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,ozan.com
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,heroku.com
+  - DST-PORT,22
