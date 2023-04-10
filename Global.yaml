@@ -33,3 +33,4 @@ payload:
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,heroku.com
   - DST-PORT,22
+  - DOMAIN-SUFFIX,speedtest.net
