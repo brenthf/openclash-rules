@@ -16,8 +16,8 @@ payload:
   - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,nordcdn.com
   - DOMAIN-SUFFIX,extrabux.com
-  - DOMAIN-SUFFIX,cl.faans.club
-  - IP-CIDR,144.22.58.198/32
+  #- DOMAIN-SUFFIX,cl.faans.club
+  #- IP-CIDR,144.22.58.198/32
   #- IP-CIDR,185.232.68.31/32
   #- IP-CIDR,95.217.74.86/32
   #- IP-CIDR,95.217.74.82/32
@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,ozan.com
-  - DOMAIN-SUFFIX,tidal.com
+  #- DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,heroku.com
   - DST-PORT,22
   - DOMAIN-SUFFIX,speedtest.net
