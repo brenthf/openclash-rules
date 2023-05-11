@@ -1,5 +1,5 @@
 payload:  
   # > selfhost
-  #- DOMAIN-SUFFIX,spikespiegel.net
-  #- IP-CIDR,136.243.215.211/32
-  #- DOMAIN-SUFFIX,liuzhenyi.net
+  - DOMAIN-SUFFIX,spikespiegel.net
+  - IP-CIDR,136.243.215.211/32
+  - DOMAIN-SUFFIX,liuzhenyi.net
