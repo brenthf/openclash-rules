@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,ozan.com
-  #- DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,heroku.com
   - DST-PORT,22
   - DOMAIN-SUFFIX,speedtest.net
