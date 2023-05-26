@@ -21,6 +21,7 @@ payload:
   #- IP-CIDR,185.232.68.31/32
   #- IP-CIDR,95.217.74.86/32
   #- IP-CIDR,95.217.74.82/32
+  - IP-CIDR,168.138.168.217
   - DOMAIN-SUFFIX,notifiarr.com
   #- DOMAIN-SUFFIX,sportemby.com
   #- DOMAIN-SUFFIX,spikespiegel.net
