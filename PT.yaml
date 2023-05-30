@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,sportscult.org
   - DOMAIN-SUFFIX,scenenzbs.com
   - DOMAIN-SUFFIX,lemonhd.org
-  # - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,piggo.me
   - DOMAIN-SUFFIX,ultrahd.net
   - DOMAIN-SUFFIX,audiences.me
