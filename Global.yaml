@@ -36,3 +36,4 @@ payload:
   - DST-PORT,22
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,dailyart-ng.s3.eu-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,twitch.tv
