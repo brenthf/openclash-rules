@@ -38,3 +38,5 @@ payload:
   - DOMAIN-SUFFIX,dailyart-ng.s3.eu-central-1.amazonaws.com
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,character.ai
+  - DOMAIN-SUFFIX,marquee.tv
+  
