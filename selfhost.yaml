@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,sportemby.com
   - IP-CIDR,185.232.68.31/32
   - DOMAIN-SUFFIX,plex.direct
+  - DST-PORT,22
