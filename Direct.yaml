@@ -1,5 +1,6 @@
 payload:  
   # > brentDirect
+  - SRC-IP-CIDR,136.243.215.211
   #- DOMAIN-SUFFIX,spikespiegel.net
   - DOMAIN-SUFFIX,faans.club
   - DOMAIN-SUFFIX,liuzhenyi.net
