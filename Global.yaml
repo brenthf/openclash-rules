@@ -33,7 +33,7 @@ payload:
   - DOMAIN-SUFFIX,ozan.com
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,heroku.com
-  - DST-PORT,22
+  #- DST-PORT,22
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,dailyart-ng.s3.eu-central-1.amazonaws.com
   - DOMAIN-SUFFIX,twitch.tv
