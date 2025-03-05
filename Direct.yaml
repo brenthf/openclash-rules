@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,icanhazip.com
   #- DST-IP-CIDR,136.243.215.211/32
   #- DOMAIN-SUFFIX,spikespiegel.net
-  #- DOMAIN-SUFFIX,faans.club
+  - DOMAIN-SUFFIX,faans.club
   #- DOMAIN-SUFFIX,liuzhenyi.net
   #- DOMAIN-SUFFIX,sportemby.com
   # - SRC-IP-CIDR,192.168.1.10/32
