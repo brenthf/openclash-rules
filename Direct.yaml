@@ -1,6 +1,7 @@
 payload:  
   # > brentDirect
   - DOMAIN-SUFFIX,icanhazip.com
+  - DST-PORT,22
   #- DST-IP-CIDR,136.243.215.211/32
   #- DOMAIN-SUFFIX,spikespiegel.net
   #- DOMAIN-SUFFIX,faans.club
