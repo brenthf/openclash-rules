@@ -1,8 +1,8 @@
 payload:  
   # > selfhost
-  #- DOMAIN-SUFFIX,spikespiegel.net
-  #- IP-CIDR,136.243.215.211/32
-  #- DOMAIN-SUFFIX,liuzhenyi.net
-  # - IP-CIDR,185.232.68.31/32
-  # - DOMAIN-SUFFIX,plex.direct
+  - DOMAIN-SUFFIX,spikespiegel.net
+  - IP-CIDR,136.243.215.211/32
+  - DOMAIN-SUFFIX,liuzhenyi.net
+  - IP-CIDR,185.232.68.31/32
+  - DOMAIN-SUFFIX,plex.direct
   #- DST-PORT,22
