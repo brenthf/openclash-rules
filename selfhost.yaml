@@ -4,4 +4,4 @@ payload:
    # - IP-CIDR,136.243.215.211/32
   - DOMAIN-SUFFIX,liuzhenyi.net
    # - IP-CIDR,185.232.68.31/32
-  - DOMAIN-SUFFIX,faans.club
+  #- DOMAIN-SUFFIX,faans.club
