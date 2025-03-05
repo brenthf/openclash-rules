@@ -1,5 +1,5 @@
 payload:
-  > selfhost
+  #> selfhost
   - 'radarr.spikespiegel.net'
   - DOMAIN-SUFFIX,spikespiegel.net
    # - IP-CIDR,136.243.215.211/32
