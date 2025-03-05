@@ -4,6 +4,7 @@ payload:
   #- IP-CIDR,136.243.215.211/32
   - DOMAIN-SUFFIX,liuzhenyi.net
   - DOMAIN-SUFFIX,sportemby.com
+  - DOMAIN-SUFFIX,faans.club
   - IP-CIDR,185.232.68.31/32
   - DOMAIN-SUFFIX,plex.direct
   - DST-PORT,22
